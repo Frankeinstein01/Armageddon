@@ -15,7 +15,7 @@ print("aaaaa      aaaaa    rrr      rrr      mmm              mmm    aaaaa      
 print("Подпишись на наш TG канал ~> t.me/blackhat_lab")
 try:
   os.system("termux-open-url https://t.me/blackhat_lab")
- except:
+except:
   pass
 #anketa=[99]
 print(Fore.RED)
